@@ -1,12 +1,12 @@
-EduPort – Online Course Registration & Management System
+# EduPort – Online Course Registration & Management System
 
 EduPort is a full-stack web application that allows students to register, log in, enroll in available courses, and manage their profiles. It also includes an admin panel where the admin can manage students and courses efficiently.
 
 This project is built using Node.js, Express, MongoDB, and EJS for the frontend.
 
-🚀 Features
+## 🚀 Features
 
-  Student Features
+  ### Student Features
 
    Student Registration & Login
 
@@ -22,7 +22,7 @@ This project is built using Node.js, Express, MongoDB, and EJS for the frontend.
 
    Logout
 
- Admin Features
+ ### Admin Features
 
    Admin Login
 
@@ -30,15 +30,15 @@ This project is built using Node.js, Express, MongoDB, and EJS for the frontend.
 
    Add / Edit / Delete Courses
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-  Frontend
+  ### Frontend
 
    EJS
 
    CSS
 
-  Backend
+  ### Backend
 
    Node.js
 
@@ -50,13 +50,17 @@ This project is built using Node.js, Express, MongoDB, and EJS for the frontend.
 
    bcrypt for password hashing
 
-Screenshots
+   View Course Enrollment Data
 
-Login Page
+   Manage Student Details
+
+## Screenshots
+
+### Login Page
 
 <img width="1856" height="886" alt="Screenshot 2025-05-21 185849" src="https://github.com/user-attachments/assets/db5588ce-d8db-4093-a86f-ccef9b9e2c5e" />
 
-Admin dashboard
+### Admin dashboard
 
 <img width="1772" height="902" alt="Screenshot 2025-05-21 213442" src="https://github.com/user-attachments/assets/09d11566-5349-4cb1-93b8-b093ad095aa0" />
 
@@ -64,6 +68,4 @@ Project link: https://collegeportal-dlu7.onrender.com
 
 
 
-View Course Enrollment Data
-
-Manage Student Details
+ 
